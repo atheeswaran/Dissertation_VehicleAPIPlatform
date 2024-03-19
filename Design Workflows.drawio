@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T05:14:22.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4-h6CJdGPIotA9BAbA_b" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T05:34:23.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QQJ877rtc0Nm5lc-Wcvz" version="24.0.7" type="github">
   <diagram name="Page-1" id="PpiKkiDvaP0agM-0ErOj">
     <mxGraphModel dx="1231" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="369" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Mi9UlGByk3WwvWGCCkA-7" value="&lt;b&gt;Book appointment with Doctor name and appointment time&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7Mi9UlGByk3WwvWGCCkA-7" value="&lt;b&gt;&amp;nbsp; &quot;Optimize Fleet&quot; Button for needed Fleet&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="369" y="200" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7Mi9UlGByk3WwvWGCCkA-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7Mi9UlGByk3WwvWGCCkA-7">
@@ -82,17 +82,23 @@
         <mxCell id="7Mi9UlGByk3WwvWGCCkA-20" value="Notification Message (doctor appointment details notified to patient)" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="548.5" y="490" width="101" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7Mi9UlGByk3WwvWGCCkA-21" value="&lt;b&gt;&lt;u&gt;MICROSERVICE 1&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Telematics Analytics&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="488.5" y="95" width="121.5" height="40" as="geometry" />
+        <mxCell id="7Mi9UlGByk3WwvWGCCkA-21" value="&lt;b&gt;&lt;u&gt;MICROSERVICE1&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Telematics Analytics&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="488.5" y="70" width="141.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Mi9UlGByk3WwvWGCCkA-22" value="&lt;b&gt;&lt;u&gt;MICROSERVICE 2&amp;nbsp; Appointment Scheduling&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="342.5" width="121.5" height="40" as="geometry" />
+        <mxCell id="7Mi9UlGByk3WwvWGCCkA-22" value="&lt;b&gt;&lt;u&gt;MICROSERVICE 2&amp;nbsp; Fleet Optimization&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="259" y="342.5" width="121.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Mi9UlGByk3WwvWGCCkA-23" value="&lt;b&gt;&lt;u&gt;MICROSERVICE 3&amp;nbsp; Notification&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="510" width="121.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Mi9UlGByk3WwvWGCCkA-24" value="Vehicle API Integration Platform: E1 : Customer Experience" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="218.5" y="10" width="381.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Mi9UlGByk3WwvWGCCkA-25" value="&lt;b&gt;&lt;u&gt;API1&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;GetAllTelematicsData&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="488.5" y="120" width="141.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Mi9UlGByk3WwvWGCCkA-26" value="&lt;b&gt;&lt;u&gt;API 2&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Optimize Fleet&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="342.5" width="121.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
