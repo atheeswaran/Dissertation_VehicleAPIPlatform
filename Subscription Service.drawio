@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T18:38:43.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="tZOxyXK_ILQ_OaOFNVB_" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T18:40:03.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Lw2xV7Qi--_AnILuNDFl" version="24.0.7" type="github">
   <diagram name="Page-1" id="QUUZMIHogQgfO9D1SSY1">
     <mxGraphModel dx="2211" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="230" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bnjpEcjlknt-yDMa8jp4-7" value="&lt;b&gt;&amp;nbsp; &quot;Check Safety Alerts&quot; Button for selected Fleet&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="bnjpEcjlknt-yDMa8jp4-7" value="&lt;b&gt;&quot;Create Subscription&quot; with details selected&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="304" y="520" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bnjpEcjlknt-yDMa8jp4-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bnjpEcjlknt-yDMa8jp4-7" target="bnjpEcjlknt-yDMa8jp4-11">
@@ -86,13 +86,13 @@
         <mxCell id="bnjpEcjlknt-yDMa8jp4-20" value="&lt;b&gt;&lt;u&gt;MICROSERVICE1&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Fleet Overview&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="423.5" y="165" width="141.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bnjpEcjlknt-yDMa8jp4-21" value="&lt;b&gt;&lt;u&gt;MICROSERVICE 2&amp;nbsp; Safety Alerts&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bnjpEcjlknt-yDMa8jp4-21" value="&lt;b&gt;&lt;u&gt;MICROSERVICE 3 Subscription Service&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="194" y="662.5" width="121.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bnjpEcjlknt-yDMa8jp4-22" value="&lt;b&gt;&lt;u&gt;API1&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;GetAllFleetInfo&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="423.5" y="215" width="141.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bnjpEcjlknt-yDMa8jp4-23" value="&lt;b&gt;&lt;u&gt;API 2&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Safety Alerts&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bnjpEcjlknt-yDMa8jp4-23" value="&lt;b&gt;&lt;u&gt;API 3&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Create Subscription&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="662.5" width="121.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bnjpEcjlknt-yDMa8jp4-24" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Notification Message to Customer (&lt;/span&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;S&lt;b&gt;afety alert: &lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;High speed &lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;detected for &lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;vehicle &lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;with ID&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
