@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T18:24:59.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="R6OuX_Au3yCOB6bij9F_" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T18:38:22.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Egut_fv5boV0DoxgrvAo" version="24.0.7" type="github">
   <diagram name="Page-1" id="QUUZMIHogQgfO9D1SSY1">
     <mxGraphModel dx="2211" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
             <mxPoint x="304" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bnjpEcjlknt-yDMa8jp4-5" value="&lt;b&gt;Retrieve and Display available Fleets with Telematics Data&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="bnjpEcjlknt-yDMa8jp4-5" value="&lt;b&gt;Retrieve and Display available Fleets with Vehicle info&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="304" y="155" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bnjpEcjlknt-yDMa8jp4-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bnjpEcjlknt-yDMa8jp4-7">
@@ -98,8 +98,8 @@
         <mxCell id="bnjpEcjlknt-yDMa8jp4-24" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Notification Message to Customer (&lt;/span&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;S&lt;b&gt;afety alert: &lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;High speed &lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;detected for &lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;vehicle &lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;with ID&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="455" y="810" width="155" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="bnjpEcjlknt-yDMa8jp4-25" value="&lt;b&gt;Reuse API1 via Event Broker - Apache Kafka&lt;/b&gt;" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="665" y="40" width="141.5" height="40" as="geometry" />
+        <mxCell id="bnjpEcjlknt-yDMa8jp4-25" value="&lt;b&gt;Reuse API2 via Event Broker - Apache Kafka From E3: Customer Portal&lt;/b&gt;" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="304.75" y="440" width="155.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bnjpEcjlknt-yDMa8jp4-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -109,6 +109,12 @@
         </mxCell>
         <mxCell id="bnjpEcjlknt-yDMa8jp4-27" value="&lt;b&gt;Retrieve and Display available Fleets with Telematics Data&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="315.5" y="310" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bnjpEcjlknt-yDMa8jp4-28" value="&lt;b&gt;&lt;u&gt;MICROSERVICE2&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Customers&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="441.5" y="320" width="141.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bnjpEcjlknt-yDMa8jp4-29" value="&lt;b&gt;&lt;u&gt;API2&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;GetAllCustomers&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="441.5" y="370" width="141.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
