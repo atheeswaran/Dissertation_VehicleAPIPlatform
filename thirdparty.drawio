@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T09:31:46.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="oyJmabVfraFHGqJRJ4Y-" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T09:33:18.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="an8dGWgbzoaU1AIBkvN1" version="24.0.7" type="github">
   <diagram name="Page-1" id="CA1CGzCP61-nOpN43Mkm">
     <mxGraphModel dx="2092" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,23 +46,6 @@
         <mxCell id="rhQnzHztRZclSPktE8nI-11" value="&lt;b&gt;&lt;u&gt;API2&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;GetCollabDesigns&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="141.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rhQnzHztRZclSPktE8nI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rhQnzHztRZclSPktE8nI-16" target="rhQnzHztRZclSPktE8nI-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="508" y="685" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rhQnzHztRZclSPktE8nI-16" value="&lt;b&gt;Call MakePayment API&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="590" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rhQnzHztRZclSPktE8nI-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="539" y="720" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rhQnzHztRZclSPktE8nI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rhQnzHztRZclSPktE8nI-19" target="rhQnzHztRZclSPktE8nI-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rhQnzHztRZclSPktE8nI-19" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Notification Message to Customer (&lt;/span&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;Payment&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 14px; white-space: pre; color: rgb(163, 21, 21); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt; is &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 14px; white-space: pre; color: rgb(163, 21, 21); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;successful or &lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;failed with &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;receipt&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-weight: 700;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="530" y="830" width="155" height="125" as="geometry" />
-        </mxCell>
         <mxCell id="rhQnzHztRZclSPktE8nI-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhQnzHztRZclSPktE8nI-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="194" y="450" as="sourcePoint" />
@@ -77,6 +60,58 @@
         </mxCell>
         <mxCell id="rhQnzHztRZclSPktE8nI-24" value="&lt;b&gt;&lt;u&gt;API3&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;UpdateCollabDesign&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="590" width="141.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rhQnzHztRZclSPktE8nI-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="545" as="sourcePoint" />
+            <mxPoint x="496" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.577;entryY=-0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rhQnzHztRZclSPktE8nI-28" target="rhQnzHztRZclSPktE8nI-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541" y="672.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rhQnzHztRZclSPktE8nI-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="666" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-28" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;b&gt;vehicleTelematics.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;b&gt;speed &amp;gt; &lt;span style=&quot;color: #098658;&quot;&gt;100&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="457" y="490" width="180" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rhQnzHztRZclSPktE8nI-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="536" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-30" value="&lt;b&gt;Generate Real time Safety alerts for the selected Fleet&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="476" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-31" value="&lt;b&gt;YES&lt;/b&gt;" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="547" y="592.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-32" value="&lt;b&gt;NO&lt;/b&gt;" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="617" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-33" value="&lt;b&gt;Notification Message to Customer =&amp;gt; &quot;No Safety Alerts needed&quot;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="667" y="520" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhQnzHztRZclSPktE8nI-33" target="rhQnzHztRZclSPktE8nI-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722" y="632.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-35" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="707" y="805" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rhQnzHztRZclSPktE8nI-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="586.5" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rhQnzHztRZclSPktE8nI-37" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Notification Message to Customer (&lt;/span&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;S&lt;b&gt;afety alert: &lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;High speed &lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;detected for &lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;vehicle &lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space: pre;&quot;&gt;&lt;b&gt;with ID&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="457" y="770" width="155" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
