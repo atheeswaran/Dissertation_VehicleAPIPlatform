@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T06:23:18.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="A8NohjgRSAfmhKyEOgjd" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T06:24:05.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="2fAazB-CcOKn-9YLIYwm" version="24.0.7" type="github">
   <diagram name="Page-1" id="QUUZMIHogQgfO9D1SSY1">
-    <mxGraphModel dx="2304" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2092" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
             <mxPoint x="520" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bnjpEcjlknt-yDMa8jp4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnjpEcjlknt-yDMa8jp4-13" edge="1" target="bnjpEcjlknt-yDMa8jp4-24">
+        <mxCell id="bnjpEcjlknt-yDMa8jp4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnjpEcjlknt-yDMa8jp4-13" target="bnjpEcjlknt-yDMa8jp4-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="534" y="744" as="targetPoint" />
           </mxGeometry>
@@ -63,7 +63,7 @@
         <mxCell id="bnjpEcjlknt-yDMa8jp4-23" value="&lt;b&gt;&lt;u&gt;API 3&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Create Subscription&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="544" width="121.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pudLjY0xGoM-pLV7_xxN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bnjpEcjlknt-yDMa8jp4-24" target="bnjpEcjlknt-yDMa8jp4-18">
+        <mxCell id="pudLjY0xGoM-pLV7_xxN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bnjpEcjlknt-yDMa8jp4-24" target="bnjpEcjlknt-yDMa8jp4-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bnjpEcjlknt-yDMa8jp4-24" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Notification Message to Customer (&lt;/span&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;Subscription &lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;Created/failed &lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;with Fleet ID, &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;Start date and &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; color=&quot;#a31515&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;End date&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-weight: 700;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
