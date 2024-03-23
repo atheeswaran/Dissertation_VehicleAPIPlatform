@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T17:04:51.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.7" etag="MpYmozgWUmvyu5SiTOCy" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T17:07:34.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="-WAo9TPq8Rrjb4trOfrS" version="24.0.7" type="github">
   <diagram name="Page-1" id="9stJDIrptKMzqkHC4iJv">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aTRD9flVusNCMsegPyxG-2" value="&lt;b&gt;TelematicsAnalytics&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aTRD9flVusNCMsegPyxG-3" value="&lt;b&gt;FleetOptimization&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aTRD9flVusNCMsegPyxG-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aTRD9flVusNCMsegPyxG-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTRD9flVusNCMsegPyxG-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTRD9flVusNCMsegPyxG-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTRD9flVusNCMsegPyxG-9" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aTRD9flVusNCMsegPyxG-10" value="&lt;b&gt;SafetyAlerts&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aTRD9flVusNCMsegPyxG-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Broker&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
